@@ -1,0 +1,41 @@
+body {
+    background-color: aquamarine;
+    
+    
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: chocolate;
+    text-align: center;
+}
+
+.Parraf1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+im3g {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+
+#Imgo {
+    width: 41%;
+    height: 41%;
+    
+}
+
+#Imgoo {
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+

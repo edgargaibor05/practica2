@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+h3{
+    font-style: italic;
+    color: white;
+}
+section{
+    color: white;
+    font-family: Helvetica;
+    text-align: justify;
+}
+footer{
+    text-align: center;
+    color: white;
+}
